@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "test_session",
-      "setup": "sudo -H pip3 install pytest",
+      "setup": "sudo -H pip3 install pytest Faker",
       "run": "pytest -vv",
       "input": "",
       "output": "",
