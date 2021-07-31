@@ -1,6 +1,6 @@
 # Assignment 9
 
-This repo contains files for the 9th assignment on named tuples:
+This repo contains files for the 9th assignment on named tuples-
 
 ## Lessons Covered
 
